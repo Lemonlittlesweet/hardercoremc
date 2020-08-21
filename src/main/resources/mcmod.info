@@ -1,0 +1,16 @@
+[
+{
+  "modid": "hardercoremc",
+  "name": "Hardercoremc",
+  "description": "This is a mod to make the minecraft harder and more challenging.",
+  "version": "${version}",
+  "mcversion": "${mc_version}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Lemonlittlesweet Hanpi/Jushou"],
+  "credits": "This is a good idea!",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
